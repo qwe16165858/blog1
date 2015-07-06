@@ -40,3 +40,4 @@ Fist we also need to use these command line
 			gem install jekyll --pre
 
 For more information you can visit [jekyll website](http://jekyllrb.com/docs/home/)
+<!--more-->
