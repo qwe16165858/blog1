@@ -3,7 +3,7 @@ layout: post
 title:  "Some tools related to my blog"
 date:   5 July 2015 
 categories: Front-end
- <!--more-->
+ <!--more-->First step of jekyll<!--more-->
 ---
 
 * content
