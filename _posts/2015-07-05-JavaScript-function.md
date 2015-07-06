@@ -3,13 +3,13 @@ layout: post
 title:  "Some tools related to my blog"
 date:   5 July 2015 
 categories: Front-end
- 
+ <!--more-->
 ---
 
 * content
 {:toc}
 
-##This how I intall some useful software related to front end<!--more-->
+##This how I intall some useful software related to front end
 
 ### Macdown
 I choose Macdown as my major tool to manage the content of my blog. Here is the download link of it. [here](http://macdown.uranusjr.com).
