@@ -9,7 +9,7 @@ categories: Front-end
 * content
 {:toc}
 
-##This how I intall some useful software related to front end
+##This how I intall some useful software related to front end<!--more-->
 
 ### Macdown
 I choose Macdown as my major tool to manage the content of my blog. Here is the download link of it. [here](http://macdown.uranusjr.com).
