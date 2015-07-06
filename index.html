@@ -12,9 +12,13 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          {{ post.title }}
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        
+        {% if site.excerpt_separator %}
+        <p>{{ post.excerpt }}<p>
+        {% else %}
+        <p>{{ post.content}}<p>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
