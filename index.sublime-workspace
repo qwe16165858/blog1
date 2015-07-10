@@ -15,12 +15,16 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 0.0,
-		"last_filter": "",
+		"height": 359.0,
+		"last_filter": "sstml",
 		"selected_items":
 		[
+			[
+				"sstml",
+				"Set Syntax: HTML"
+			]
 		],
-		"width": 0.0
+		"width": 392.0
 	},
 	"console":
 	{
@@ -40,12 +44,13 @@
 	},
 	"file_history":
 	[
-		"/Users/liangchen/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/Users/liangchen/Documents/workspace/blog1/index.html"
+		"/Users/liangchen/Documents/workspace/blog1/index.html",
+		"/Users/liangchen/Documents/workspace/blog1/index.sublime-workspace",
+		"/Users/liangchen/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -59,6 +64,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"!"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -83,7 +89,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -120,7 +126,7 @@
 	"project": "index.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
